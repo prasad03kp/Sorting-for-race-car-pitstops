@@ -6,3 +6,5 @@ To run the code in linux
   1.Open the directory in terminal
   2.gcc sort.c -lGL -lGLU -lglut
   3.Run ./a.out for output
+  
+Click mouse points to begin the simulation.
